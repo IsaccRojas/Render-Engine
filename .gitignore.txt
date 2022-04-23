@@ -1,0 +1,8 @@
+atlas_effects.png
+atlas_enemies.png
+atlas_player.png
+atlas_projectiles.png
+atlas_tile.png
+smoker.png
+behavior/
+.vscode/
